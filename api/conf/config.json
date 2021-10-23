@@ -1,0 +1,14 @@
+{
+    "server" : {
+        "port" : 3000
+    },
+    "database" : {
+        "host" : "mongodb://localhost:27017/",
+        "user" : "pipeline",
+        "password" : "pipeline",
+        "database" : "pipelines"
+    },
+    "jwt": {
+        "secret" : "5b4df884-30f7-11ec-8d3d-0242ac130003"
+    }
+}
